@@ -2,7 +2,7 @@
 
 ## Tech & Tools
 You will need installed:
-- Elixir 1.4
+- Elixir >= 1.2
 - Phoenix
 - npm
 - Node (sudo apt install nodejs-legacy on linux)
